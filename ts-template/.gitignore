@@ -1,0 +1,9 @@
+node_modules
+.env
+.env.*
+!.env.example
+
+dist
+.idea
+.vscode
+service-key.json
